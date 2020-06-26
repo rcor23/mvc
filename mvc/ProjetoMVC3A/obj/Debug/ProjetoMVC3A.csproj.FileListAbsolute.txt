@@ -1,0 +1,10 @@
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\bin\Debug\ProjetoMVC3A.exe.config
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\bin\Debug\ProjetoMVC3A.exe
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\bin\Debug\ProjetoMVC3A.pdb
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.csprojAssemblyReference.cache
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.Form1.resources
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.Properties.Resources.resources
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.csproj.GenerateResource.cache
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.csproj.CoreCompileInputs.cache
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.exe
+E:\projetos\ProjetoMVC3A-master\ProjetoMVC3A\obj\Debug\ProjetoMVC3A.pdb
